@@ -1,0 +1,12 @@
+{
+  "name": "mern-chat-app-main",
+  "version": "1.0.0",
+  "description": "This is a simple web chat application. This application allows private chatting between two logged-in users. The technologies, software, database and libraries used to create this app are:   1. NodeJS   2. React   3. SocketIo   4. MongoDB   5. Express   6. Bcrypt   7. Validator   8. cors   9. React-router-dom   10. React-bootstrap   11. Moment   12. react-input-emoji   13. JWT   14. dotenv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
